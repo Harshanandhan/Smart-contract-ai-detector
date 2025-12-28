@@ -549,16 +549,7 @@ Actual┼────────────┼──────────�
 - ✅ Performance metrics and data
 - ✅ Architecture documentation
 
-**What to Add (Optional):**
-- 📸 Screenshots of running application
-- 🎨 Visual diagrams (if preferred over ASCII)
-- 📊 More data visualizations
-- 🖼️ UI mockups
 
-**Recommendation:**  
-Upload the ASCII diagrams AS-IS. They're professional, render perfectly on GitHub, and show technical skill. Add visual screenshots later when you run the actual application.
-
----
 
 **Author:** Harshanandhan Reddy Gajulapalli  
 **Email:** harshanandhanreddy820@gmail.com  
