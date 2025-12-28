@@ -1,0 +1,18 @@
+# AI/ML Smart Contract Vulnerability Detector
+# Minimal Requirements - Pattern-based detection works with just Python 3.8+!
+
+# Optional: For colored output (recommended but not required)
+colorama>=0.4.6
+
+# Optional: For advanced static analysis (install separately)
+# slither-analyzer>=0.9.6
+
+# Future: AI/ML Models (v2.0)
+# torch>=2.0.0
+# transformers>=4.30.0
+# tensorflow>=2.13.0
+
+# Future: Advanced Features (v2.0)
+# web3>=6.0.0
+# requests>=2.31.0
+# shap>=0.42.0
