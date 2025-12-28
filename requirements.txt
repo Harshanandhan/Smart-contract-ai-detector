@@ -1,0 +1,53 @@
+# AI/ML Smart Contract Vulnerability Detector
+# Requirements for Python 3.8+
+
+# === CORE (Pattern-based detection works WITHOUT these!) ===
+
+# Optional: For colored terminal output (recommended)
+colorama>=0.4.6
+
+# === STATIC ANALYSIS (Optional but recommended) ===
+
+# Slither - Static analysis framework
+slither-analyzer>=0.9.6
+
+# Solidity compiler wrapper
+py-solc-x>=1.1.1
+
+# === AI/ML MODELS (Future - v2.0) ===
+
+# Uncomment when implementing ML models:
+# torch>=2.0.0
+# transformers>=4.30.0
+# tensorflow>=2.13.0
+# shap>=0.42.0
+
+# === WEB3 INTEGRATION (Future - v2.0) ===
+
+# Uncomment for blockchain interaction:
+# web3>=6.0.0
+# eth-brownie>=1.19.0
+
+# === DATA PROCESSING (Future) ===
+
+# Uncomment for data analysis:
+# numpy>=1.24.0
+# pandas>=2.0.0
+# scikit-learn>=1.3.0
+
+# === UTILITIES ===
+
+# Uncomment for additional features:
+# requests>=2.31.0
+# python-dotenv>=1.0.0
+
+# === NOTES ===
+# 
+# Minimum to run: NONE! Just Python 3.8+
+# Recommended: colorama (for colors)
+# Full features: slither-analyzer
+# Future AI/ML: Uncomment torch, transformers sections
+#
+# Install options:
+#   pip install colorama                    # Minimal
+#   pip install -r requirements.txt         # Recommended (with Slither)
