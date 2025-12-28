@@ -11,7 +11,7 @@ Visual documentation for the AI/ML Smart Contract Vulnerability Detector project
 
 This folder contains visual proof and documentation for the AI/ML Smart Contract Vulnerability Detector project.
 
-**Current Status:** Text-based diagrams (GitHub-ready) | Visual screenshots coming after deployment
+**Current Status:** Text-based diagrams | Visual screenshots coming after deployment
 
 ---
 
